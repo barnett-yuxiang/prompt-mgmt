@@ -1,4 +1,9 @@
 
+### 来自 Gemini
+
+1. Summarize the article (link below)for me, Include bullet points of the main points.
+
+2. Brainstorm 5 blog ideas about Gemini for the Zapier blog.
 
 ### 阅读文章，来自 Google NoteLLM
 
