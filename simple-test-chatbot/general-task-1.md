@@ -15,7 +15,7 @@ Q6: 已知 a = (m^(m+1) + n^(n+1)) / (m^m + n^n)，其中 m，n 是正整数。�
 
 ## English
 
-Q1: Which is greater, 9.11 or 9.9?
+Q1: 9.11 and 9.9 , which number is larger？
 
 Q2: Alice has N brothers and M sisters. How many sisters do Alice's brothers have?
 
