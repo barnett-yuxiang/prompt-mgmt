@@ -27,3 +27,11 @@ Prompt:
 ```
 A circular emblem in a vintage-inspired, flat and bold cartoon style. In the center is a clean, front-facing sticker-style portrait of a man with light skin, wearing a black fedora, black rectangular glasses, and a black t-shirt. The man's expression is friendly with a soft smile. Around the portrait, the outer ring features the name "YULI.KAMAKURA" at the top and the word "PROGRAMMER" at the bottom, separated by two stars on either side. The color palette includes navy blue, warm orange, beige, and black. The illustration is clean, modern, and ideal for a personal brand or tech identity.
 ```
+
+### Turn all xxx photos into Ghibli portraits.
+
+Prompt:
+
+```
+Turn this photo into Ghibli portraits.
+```
