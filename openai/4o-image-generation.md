@@ -2,11 +2,12 @@
 
 POP MART, LEGO, Pixar, Ghibli
 
-Type:
+Tips:
 
 - Portrait drawing;
 - Coin illustration;
 - Create an image in the style of another photo;
+- Find some good reference images, then use these images to generate new ones.
 
 ### Airport Boarding Pass
 
