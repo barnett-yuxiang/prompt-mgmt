@@ -1,3 +1,13 @@
+### Preferred Styles
+
+POP MART, LEGO, Pixar, Ghibli
+
+Type:
+
+- Portrait drawing;
+- Coin illustration;
+- Create an image in the style of another photo;
+
 ### Airport Boarding Pass
 
 Prompt:
