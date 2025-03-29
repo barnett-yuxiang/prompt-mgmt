@@ -7,7 +7,7 @@
 - Tags: [TAG1, TAG2]
 
 ## Preferred Styles
-POP MART, LEGO, Pixar, Ghibli
+POP MART, LEGO, Pixar, Ghibli, Line Drawing | 线条画 ;
 
 ## Tips & Best Practices
 - Portrait drawing
