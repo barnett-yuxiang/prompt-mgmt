@@ -25,5 +25,9 @@ MidJourney 提示词体系:
 
 """
 输出提示词要求:
-  生成一段话，不分段落，形式为: {场景描述}，{主体描述}，{环境描述}，{细节描述}，{风格定义}，{构图}，{质量要求} {灵活添加的参数控制}
+  生成一段话，不分段落，包含: {场景描述}，{主体描述}，{环境描述}，{细节描述}，{风格定义}，{构图}，{质量要求} {灵活添加的参数控制}
+  使用英文来写
+
+示例1:
+A wrinkled old parchment paper with a hand drawh pirate treasure map in pen and ink, featuring a skull syrmbol marking the endpoint of the path. Intricate vintage illustrationstyle with faded sepia tones and coffee stains. Detailed compass rose dotted treasure trail, and coastal landmarks. Weathered texture with visible paper fibers and crease shadows. Includes X maarks, shipwreck coordinates, and island contours. Dark brown ard ivory color palette with yellowed edges. High resolution, intricateline details, realistic parchment texture, no noise. 17th centurynautical chart style. Hidden cipher messages in margins. Ocean mornsters in marginalia. --ar 16:9 --p qublut1 --style raw --s 750
 """
