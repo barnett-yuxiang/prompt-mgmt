@@ -23,7 +23,8 @@ The repository is organized along two axes:
     ├── best-practices/   # Guidelines for writing effective prompts
     ├── daily-use/        # Ready-to-use prompts for everyday tasks
     ├── exploration/      # Experiments with new techniques and models
-    └── methods/          # Prompting methods (Chain-of-Thought, ReAct, ...)
+    ├── methods/          # Prompting methods (Chain-of-Thought, ReAct, ...)
+    └── thinking/         # Thinking frameworks and reasoning/persona prompts
 ```
 
 ## Vendor / tool directories
@@ -54,9 +55,7 @@ repository-aware code assistance.
 
 ## `general/`
 
-Model-agnostic material, grouped by purpose. Standalone notes that do not fit a
-subcategory (for example, thinking-model write-ups) also live at the root of
-this directory.
+Model-agnostic material, grouped by purpose.
 
 ### `benchmark/`
 
@@ -81,3 +80,18 @@ the capabilities of different models.
 
 Explanations of prompting methods such as Chain-of-Thought and ReAct, and when
 to use them.
+
+### `thinking/`
+
+Everything related to reasoning and cognition, kept together as one theme:
+
+- **Thinking frameworks (for humans)** — mental models and clear-thinking
+  write-ups such as first principles, the golden circle, and the pyramid
+  principle.
+- **Reasoning / persona prompts (for models)** — prompt patterns that make a
+  model reason more deeply or adopt a top-expert persona (for example, a
+  "summon an expert" style prompt).
+
+As this directory grows it can be split further, e.g. `thinking/mental-models/`
+for the human-oriented frameworks and `thinking/personas/` for the role /
+persona prompts.
