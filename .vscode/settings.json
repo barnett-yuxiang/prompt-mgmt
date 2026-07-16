@@ -1,5 +1,23 @@
 {
-    "IDX.aI.enableInlineCompletion": true,
-    "IDX.aI.enableCodebaseIndexing": true,
-    "codium.codeCompletion.enable": true
+  // 使用项目本地 TypeScript 版本，保证 VSCode / Cursor 与项目编译环境一致
+  "js/ts.tsdk.path": "node_modules/typescript/lib",
+
+  // Cursor 当前通过 Command Palette 设置 TypeScript 版本时可能会写入该兼容配置
+  // 与 js/ts.tsdk.path 保持一致，避免 VSCode / Cursor 行为不一致
+  "typescript.tsdk": "node_modules/typescript/lib",
+
+  // 保存时移除行尾空格，减少无意义 diff
+  "files.trimTrailingWhitespace": true,
+
+  // 保存时确保文件末尾有一个换行符
+  "files.insertFinalNewline": true,
+
+  // 保存时移除文件末尾多余空行，只保留一个最终换行
+  "files.trimFinalNewlines": true,
+
+  // 120 字符行宽参考线
+  "editor.rulers": [120],
+
+  // 统一使用 LF 换行符，适合 macOS / Linux / CI 环境
+  "files.eol": "\n"
 }
