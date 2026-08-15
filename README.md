@@ -1,3 +1,5 @@
+
+
 # Prompt Magnet
 
 A personal collection of prompts, templates, and strategies for using large
@@ -6,7 +8,7 @@ language models (LLMs) effectively.
 The repository is organized along two axes:
 
 - **Vendor / tool directories** — material that is specific to a particular
-  model or product (e.g. `openai/`, `gemini/`, `cursor/`).
+  model or product (e.g. `chatgpt/`, `gemini/`, `cursor/`).
 - **`general/`** — model-agnostic prompts and techniques, grouped by purpose.
 
 ## Structure
@@ -16,7 +18,7 @@ The repository is organized along two axes:
 ├── cursor/       # Notes and custom rules for the Cursor AI editor
 ├── gemini/       # Prompts specific to Google Gemini models
 ├── midjourney/   # Midjourney image-generation prompt templates
-├── openai/       # Prompts, templates, and notes for OpenAI models
+├── chatgpt/      # Prompts, templates, and notes for ChatGPT
 ├── qodo/         # Prompts and notes for Qodo (code AI)
 └── general/      # Model-agnostic prompts and techniques
     ├── benchmark/        # Tasks for evaluating and comparing models
@@ -42,9 +44,9 @@ Prompts and templates tailored to Google Gemini models.
 
 Reusable prompt templates for generating images with Midjourney.
 
-### `openai/`
+### `chatgpt/`
 
-Prompts, reusable templates, and field notes for OpenAI models — including an
+Prompts, reusable templates, and field notes for ChatGPT — including an
 image-generation template and directive-style prompts such as the reality
 filter used to reduce hallucinations.
 
