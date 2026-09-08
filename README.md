@@ -14,7 +14,7 @@ The repository is organized along two axes:
 
 ```text
 .
-├── image/        # Image-generation / image-to-image style-transfer prompts
+├── image/        # Image-generation / photo-editing / style-transfer prompts
 └── legacy/       # Archived vendor- and tool-specific collections
     ├── cursor/       # Notes and custom rules for the Cursor AI editor
     ├── gemini/       # Prompts specific to Google Gemini models
@@ -32,9 +32,12 @@ The repository is organized along two axes:
 
 ## `image/`
 
-Prompts for image generation and photo restyling — for example, turning
-photos into minimalist gallery posters or hand-painted watercolor art prints
-while preserving the original composition and subject.
+Prompts for image generation, photo editing, and restyling — including travel
+posters, watercolor art prints, realistic portraits, and photo restoration.
+
+- [旅行海报生成](image/旅行海报生成.md) — Generate travel posters from a location name.
+- [照片艺术化风格转换](image/照片艺术化风格转换.md) — Restyle photos as posters, watercolor prints, or painted portraits.
+- [写实人像摄影与修图](image/写实人像摄影与修图.md) — Prompts for realistic portraits, scene changes, and old-photo restoration.
 
 ## `legacy/`
 
