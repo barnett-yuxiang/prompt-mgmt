@@ -33,9 +33,11 @@ The repository is organized along two axes:
 ## `image/`
 
 Prompts for image generation, photo editing, and restyling — including travel
-posters, watercolor art prints, realistic portraits, and photo restoration.
+posters, miniature dioramas, watercolor art prints, realistic portraits, and photo
+restoration.
 
 - [旅行海报生成](image/旅行海报生成.md) — Generate travel posters from a location name.
+- [微缩场景生成](image/微缩场景生成.md) — Generate miniature landmark dioramas with a travel-souvenir aesthetic.
 - [照片艺术化风格转换](image/照片艺术化风格转换.md) — Restyle photos as posters, watercolor prints, or painted portraits.
 - [写实人像摄影与修图](image/写实人像摄影与修图.md) — Prompts for realistic portraits, scene changes, and old-photo restoration.
 
